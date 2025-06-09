@@ -47,15 +47,6 @@ git clone https://github.com/yunshanshu123/AI-assignment4.git
 pip install -r requirements.txt
 ```
 
-## 结果示例
-### 通义千问回答示例
-![问题1回答](media/image3.png)
-![问题4回答](media/image7.png)
-
-### Chatglm回答示例
-![问题3回答](media/image11.png)
-![问题5回答](media/image13.png)
-
 ## 使用建议
 | 使用场景               | 推荐模型     |
 |------------------------|--------------|
